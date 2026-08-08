@@ -1,0 +1,110 @@
+{
+  "slug": "people-studio",
+  "host": "people",
+  "title": "People Studio",
+  "tagline": "Onboarding, reviews, recruitment and HR",
+  "description": "Build onboarding flows, performance reviews, and goal/OKR tracking. Manage recruitment pipelines, leave policies, compensation bands, and employee directories, run engagement surveys and 360 feedback, and handle offboarding and referrals.",
+  "editors": [
+    {
+      "category": "People & HR Editors",
+      "name": "Onboarding Flow Editor",
+      "desc": "New hire onboarding checklist builder"
+    },
+    {
+      "category": "People & HR Editors",
+      "name": "Performance Review Editor",
+      "desc": "Review cycle and rating forms"
+    },
+    {
+      "category": "People & HR Editors",
+      "name": "Goal/OKR Editor",
+      "desc": "Employee goal and OKR tracking"
+    },
+    {
+      "category": "People & HR Editors",
+      "name": "Leave Policy Editor",
+      "desc": "Time-off and leave rule configuration"
+    },
+    {
+      "category": "People & HR Editors",
+      "name": "Recruitment Pipeline Editor",
+      "desc": "Hiring stage and pipeline management"
+    },
+    {
+      "category": "People & HR Editors",
+      "name": "Employee Directory Editor",
+      "desc": "Org-wide people directory management"
+    },
+    {
+      "category": "People & HR Editors",
+      "name": "Benefits Editor",
+      "desc": "Employee benefits plan configuration"
+    },
+    {
+      "category": "People & HR Editors",
+      "name": "Attendance Editor",
+      "desc": "Time tracking and attendance rules"
+    },
+    {
+      "category": "People & HR Editors",
+      "name": "Compensation Editor",
+      "desc": "Salary band and compensation structure"
+    },
+    {
+      "category": "People & HR Editors",
+      "name": "Exit Interview Editor",
+      "desc": "Offboarding and exit interview forms"
+    },
+    {
+      "category": "People & HR Editors",
+      "name": "360 Feedback Editor",
+      "desc": "Peer/manager feedback collection"
+    },
+    {
+      "category": "People & HR Editors",
+      "name": "Training Plan Editor",
+      "desc": "Employee development plan builder"
+    },
+    {
+      "category": "People & HR Editors",
+      "name": "Employee Survey Editor",
+      "desc": "Engagement and pulse survey creation"
+    },
+    {
+      "category": "People & HR Editors",
+      "name": "Org Policy Editor",
+      "desc": "HR policy documentation and rollout"
+    },
+    {
+      "category": "People & HR Editors",
+      "name": "Referral Program Editor",
+      "desc": "Employee referral workflow"
+    }
+  ],
+  "services": [
+    [
+      "workforce",
+      "core"
+    ],
+    [
+      "payroll",
+      "core"
+    ],
+    [
+      "recruitment",
+      "core"
+    ],
+    [
+      "scheduling",
+      "new"
+    ],
+    [
+      "document",
+      "core"
+    ],
+    [
+      "learning",
+      "core"
+    ]
+  ]
+}
